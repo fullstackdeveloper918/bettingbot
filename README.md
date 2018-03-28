@@ -20,10 +20,4 @@ A bot for tracking Sports Betting Lines
   * Spreads
   * Moneyline
 
-## Starting the server
 
-`pm2 start server.js --name wagerapi`
-
-## Restarting the server
-
-`pm2 restart wagerapi`
